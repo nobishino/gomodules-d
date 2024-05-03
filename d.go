@@ -6,4 +6,8 @@ type D struct {
 
 // v1.1で追加された新しい型
 
-type D1_1 struct{}
+type D1_1 struct {
+}
+
+// v1.2で追加された新しい関数
+func D1_2() {}
